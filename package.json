@@ -1,7 +1,7 @@
 {
   "name": "time-differ",
   "description": "Measure time difference.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "author": "Liav Barsheshet, LBDevelopments <liavbarsheshet@gmail.com, liavb@campus.technion.ac.il>",
   "license": "MIT",

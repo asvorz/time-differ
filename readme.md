@@ -140,7 +140,7 @@ point((timeObject) => {
 
 [MIT](LICENSE)
 
-[npm-image]: https://img.shields.io/npm/v/styled-terminal.svg
-[npm-url]: https://www.npmjs.com/package/styled-terminal
-[downloads-image]: https://img.shields.io/npm/dm/styled-terminal.svg
-[downloads-url]: https://npmcharts.com/compare/styled-terminal?minimal=true
+[npm-image]: https://img.shields.io/npm/v/time-differ.svg
+[npm-url]: https://www.npmjs.com/package/time-differ
+[downloads-image]: https://img.shields.io/npm/dm/time-differ.svg
+[downloads-url]: https://npmcharts.com/compare/time-differ?minimal=true
