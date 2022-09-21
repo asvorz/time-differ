@@ -1,0 +1,31 @@
+{
+  "name": "time-differ",
+  "description": "Measure time difference.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Liav Barsheshet, LBDevelopments <liavbarsheshet@gmail.com, liavb@campus.technion.ac.il>",
+  "license": "MIT",
+  "types": "./index.d.ts",
+  "homepage": "https://github.com/liavbarsheshet/time-differ",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liavbarsheshet/time-differ"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "files": [
+    "LICENSE",
+    "Readme.md",
+    "index.js",
+    "index.d.ts"
+  ],
+  "keywords": [
+    "time",
+    "difference",
+    "time-differ",
+    "time-difference",
+    "debug",
+    "measure"
+  ]
+}
